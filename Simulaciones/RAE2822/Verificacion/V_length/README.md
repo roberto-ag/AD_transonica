@@ -1,0 +1,1 @@
+El nombre de las carpetas representan la longitud mínima normal sobre el perfil.
